@@ -17,9 +17,9 @@ This is Machine learning HW in 2020 fall semester in NCTU. Teaching by prof.ç°¡ä
 I don't know whether this homework is right or not, here is the repository storing homework and project of the cource.
 
 ## Reference Github 
-thanks their brilliant cintributions
-https://github.com/JessiKuo/NCTU_ML
-https://github.com/PinYuan/NCTU_ML
+thanks for their brilliant cintributions
+### https://github.com/JessiKuo/NCTU_ML
+### https://github.com/PinYuan/NCTU_ML
 
 ## ALERT!
 Again, here is only for storing. I'm not responsible for any correctness or legal liability, or even plagiarism.
