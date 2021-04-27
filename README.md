@@ -18,10 +18,10 @@ I don't know whether this homework is right or not, here is the repository stori
 
 ## Reference Github 
 thanks for their brilliant cintributions
-### https://github.com/JessiKuo/NCTU_ML
-### https://github.com/PinYuan/NCTU_ML
+#### https://github.com/JessiKuo/NCTU_ML
+#### https://github.com/PinYuan/NCTU_ML
 
 ## ALERT!
-Again, here is only for storing. I'm not responsible for any correctness or legal liability, or even plagiarism.
-I do not have the whole copyright, due to some coding algorithms are came from the "references" and "my friends".
-Datasets are all came from TA.
+ - Again, here is only for storing. I'm not responsible for any correctness or legal liability, or even plagiarism.
+ - I do not have the whole copyright, due to some coding algorithms are came from the "references" and "my friends".
+ - Datasets are all came from TA.
